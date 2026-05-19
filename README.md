@@ -10,5 +10,5 @@ uv run facial_landmark.py
 ```
 Holistic Landmark
 ```
-uv run holistic_landmark.pu
+uv run holistic_landmark.py
 ```
